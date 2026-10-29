@@ -205,7 +205,7 @@ Two metrics are not fully corrected for match length: Completed Line Breaks (a r
 - **Python:** the background image for the quadrant plot, with a colored fill for each quadrant, and the correlation matrix of the ten metrics.
 
 ```
-wc26-dominance-v-efficiency-analysis/
+wc26-dominance-efficiency/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
