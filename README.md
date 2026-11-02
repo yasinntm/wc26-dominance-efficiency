@@ -170,7 +170,7 @@ Except for Morocco (AAD/BAE), seven of the eight quarterfinalists sit in the Abo
 Türkiye is another outlier. It posted the second-highest Dominance score (1.59), yet it went out in the group stage. Its Efficiency score (0.21) sits just above average, but that rests mostly on shot generation (2.05). In fact, its attempts were low in quality (xG per Attempt z = −0.69), and it finished them poorly (Goals per xG z = −1.20).
 
 ### Correlation Matrix
-A correlation matrix of the ten metrics shows how much each index's metrics overlap.
+[The correlation matrix](figures/correlation_matrix.png) of the ten metrics shows how much each index's metrics overlap.
 
 Possession, Pass Completion, Completed Line Breaks and Build Up Opposed correlate at 0.75 to 0.88 with each other. Final Third is at 0.46 to 0.81. Dominance metrics go hand-in-hand to establish the definition of a team's "control".
 
