@@ -209,6 +209,7 @@ wc26-dominance-efficiency/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
+├── .gitattributes
 ├── data/
 │   ├── README.md
 │   ├── dominance_z_scores.csv
