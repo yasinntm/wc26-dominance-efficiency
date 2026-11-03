@@ -3,7 +3,7 @@
 
 
 ![Dominance-Efficiency quadrant plot for all 48 teams](figures/quadrant_plot.png)
-*Dominance and Efficiency scores for all 48 teams. Mexico and Norway are circled because their near-identical profiles overlap.*
+*Teams placed by their Dominance and Efficiency z-scores, where zero is the average of the 48 teams. Mexico and Norway, circled, share almost the same profile.*
 
 <p align="center">
   <a href="https://public.tableau.com/app/profile/yasin.tm/viz/TheDominanceEfficiencyQuadrantFIFAWorldCup2026/QuadrantMap"><img src="https://img.shields.io/badge/Tableau_Public-Interactive_Plot-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="View the dashboard on Tableau Public"></a>
